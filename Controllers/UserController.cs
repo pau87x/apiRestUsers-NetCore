@@ -21,7 +21,10 @@ namespace Api.Controllers
             {
                 // Create a new UserItem if collection is empty,
                 // which means you can't delete all UserItems.
-                _context.UserItems.Add(new UserItem { Name = "Item1", Username = "Item1",Email = "p@p.com" });
+                _context.UserItems.Add(new UserItem { Name = "Dev", Username = "dev",Email = "dev@dev.com" });
+                _context.UserItems.Add(new UserItem { Name = "Juan Pablo", Username = "jp",Email = "jp@dev.com" });
+                _context.UserItems.Add(new UserItem { Name = "Juan Carlos", Username = "jc",Email = "jc@dev.com" });
+                _context.UserItems.Add(new UserItem { Name = "J", Username = "j",Email = "j@dev.com" });
                 _context.SaveChanges();
             }
         }

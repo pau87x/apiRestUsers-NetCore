@@ -12338,11 +12338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pau/Desktop/api/api.csproj",
+      "projectUniqueName": "/Users/pau/Desktop/apiwithoutgitignore/api.csproj",
       "projectName": "api",
-      "projectPath": "/Users/pau/Desktop/api/api.csproj",
+      "projectPath": "/Users/pau/Desktop/apiwithoutgitignore/api.csproj",
       "packagesPath": "/Users/pau/.nuget/packages/",
-      "outputPath": "/Users/pau/Desktop/api/obj/",
+      "outputPath": "/Users/pau/Desktop/apiwithoutgitignore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
