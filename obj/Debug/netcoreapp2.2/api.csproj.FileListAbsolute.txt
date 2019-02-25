@@ -1,0 +1,14 @@
+/Users/pau/Desktop/api/bin/Debug/netcoreapp2.2/api.deps.json
+/Users/pau/Desktop/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+/Users/pau/Desktop/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+/Users/pau/Desktop/api/bin/Debug/netcoreapp2.2/api.dll
+/Users/pau/Desktop/api/bin/Debug/netcoreapp2.2/api.pdb
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.csproj.CoreCompileInputs.cache
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.dll
+/Users/pau/Desktop/api/obj/Debug/netcoreapp2.2/api.pdb
